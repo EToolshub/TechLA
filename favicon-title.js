@@ -1,1 +1,0 @@
-document.title='TechLA | Tecnología que sí quieres tener';var l=document.querySelector('link[rel="icon"]');if(!l){l=document.createElement('link');l.rel='icon';l.type='image/svg+xml';l.href='favicon.svg';document.head.appendChild(l);}
