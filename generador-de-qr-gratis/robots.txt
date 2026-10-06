@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://generador-de-qr-gratis.vercel.app/sitemap.xml
