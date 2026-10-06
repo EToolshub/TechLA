@@ -27,9 +27,6 @@ TechLA es un caso de estudio de UX/UI y frontend para un e-commerce de tecnolog�
 - Marquee y floating chips
 - `prefers-reduced-motion`
 
-## Generador de QR gratis
-El menú de la tienda enlaza al generador de códigos QR gratuito de TechLA, que vive en su propio proyecto: https://generador-de-qr-gratis.vercel.app/
-
 ## Publicación
 El repositorio está preparado para GitHub Pages. `index.html` se encuentra en la raíz y no requiere build.
 
